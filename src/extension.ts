@@ -112,7 +112,7 @@ export function activate(context: vscode.ExtensionContext) {
 				  var options = {
 					width: 800,
 					chart: {
-					  title: 'Your code activity last 5 days',
+					  title: 'Your code activity last 4 days',
 					  subtitle: 'Hours per day'
 					},
 					bars: 'horizontal', // Required for Material Bar Charts.
