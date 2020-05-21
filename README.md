@@ -24,7 +24,9 @@ Time calculator: : Show Time - show full work time
 
 Add graphs
 
+### 1.0.1
 
+Fix BarChart title
 
 
 
